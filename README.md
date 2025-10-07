@@ -50,7 +50,7 @@ MiroTalk - https://p2p.mirotalk.com/newcall
 Note:
 I haven't check customization part of each application. I will update as soon as i can.
 
-# API
+# Local API 
 ## LiveKit
 * https://localhost:5000/api/v1/connectAppointment
 
